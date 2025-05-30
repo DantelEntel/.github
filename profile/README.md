@@ -32,7 +32,7 @@ kendilerince doğru olduğunu düşündükleri yöntemi uygulayan bir oluşum ol
 Projelerimizi herkese açık bir şekilde Github'da paylaşmayı uygun gördük. Hedefimiz, ufak düzenlemeleri hızlıca
 repolara yansıtıp, herkesin projelerin en güncel haline kolayca ulaşmasını sağlamak. Biz pes edip beyaz bayrağı
 çektikten yıllar sonra bile github organizasyonumuzdaki repolar ulaşılabilir olmalı. Yani uzun vadede de 
-bu yöntemin, izleyicinin avantajına olduğu kanaatindeyiz. Ayrıca herkese açık bir altyazı paylaşımı, gelecekte
+bu yöntemin, izleyicinin avantajına olduğu kanaatindeyiz. Ayrıca altyazıları paylaşarak, gelecekte
 seriler için daha iyi kaynaklar paylaşıldığında, gömülü (hardsub) altyazı paylaşan ekiplerin aksine uğraş verdiğimiz
 çalışmaların arşiv değerini de artırmış oluyoruz.
 
